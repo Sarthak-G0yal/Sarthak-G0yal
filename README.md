@@ -1,4 +1,4 @@
- <h1 style = "text-align:center"><b>👋 Hi, I’m Sarthak Goyal</b></h1>
+ -<h1 style = "text-align:center"><b>👋 Hi, I’m Sarthak Goyal</b></h1>
  <div>
 - 👀 I’m interested in Web Develpoment.
 - 🌱 I’m currently learning HTML, CSS, JS, C, Python.
