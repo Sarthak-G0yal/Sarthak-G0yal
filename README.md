@@ -1,11 +1,5 @@
 
-<head>
-  a : {
-    color:'#0098D9',
-    fontSize: 15,
-    textDecorationLine: 'none'
-  }
-</head>
+
 <h1 align = "center"><b>👋 Hi, I’m Sarthak Goyal</b></h1>
 <h4 align = "center"><i>I'm an Indian who is learning Stuff.</i></h4>
 <br>
