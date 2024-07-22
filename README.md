@@ -1,5 +1,5 @@
 <h1 align = "center"><b>👋 Hi, I’m Sarthak Goyal</b></h1>
-<h3 align = "center"><i>It feels good when it runs right.😭</i></h3>
+<h3 align = "center"><i>It feels good when it runs right.</i>😭</h3>
 <br>
 <p>- 👀 I’m interested in Web Develpoment.</p>
 <p>- 🌱 I’m currently learning HTML, CSS, JS, C, Python.</p>
