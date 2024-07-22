@@ -1,5 +1,4 @@
 <h1 align = "center"><b>👋 Hi, I’m Sarthak Goyal</b></h1>
-<h4 align = "center"><i>I'm an Indian who is learning Stuff.</i></h4>
 <br>
 <p>- 👀 I’m interested in Web Develpoment.</p>
 <p>- 🌱 I’m currently learning HTML, CSS, JS, C, Python.</p>
