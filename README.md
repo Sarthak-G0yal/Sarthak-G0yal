@@ -29,11 +29,11 @@
 <h3 align="left" style="font-size: 25px;">My Social:</h3>
 
 [![LinkedIn](/resource/icons/linkedin-50.png)](https://www.linkedin.com/in/sarthak-g0yal/)
-[![X](/resource/icons//x-50-white.png#gh-dark-mode-only)](https://x.com/SARTHAK_G0YAL)
-[![X](/resource/icons/x-50-black.png#gh-light-mode-only)](https://x.com/SARTHAK_G0YAL)
+[![X](/resource/icons/x-50-white.png)](https://x.com/SARTHAK_G0YAL#gh-dark-mode-only)
+[![X](/resource/icons/x-50-black.png)](https://x.com/SARTHAK_G0YAL#gh-light-mode-only)
 [![Instagram](/resource/icons/insta-48.png)](https://www.instagram.com/sarthak_g0yal/)
-[![CodeChef](/resource/icons/codechef-50-white.png#gh-dark-mode-only)](https://www.codechef.com/users/sarthak_g0yal)
-[![CodeChef](/resource/icons/codechef-50-black.png#gh-light-mode-only)](https://www.codechef.com/users/sarthak_g0yal)
+[![CodeChef](/resource/icons/codechef-50-white.png)](https://www.codechef.com/users/sarthak_g0yal#gh-dark-mode-only)
+[![CodeChef](/resource/icons/codechef-50-black.png)](https://www.codechef.com/users/sarthak_g0yal#gh-light-mode-only)
 [![LeetCode](/resource/icons/leetcode-48.png)](https://leetcode.com/u/9TIzQvleYO/)
 
 <h3 align="left" style="font-size: 25px;">Languages:</h3>
