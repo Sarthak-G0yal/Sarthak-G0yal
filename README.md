@@ -56,6 +56,7 @@
 
 ![Docker](/resource/icons/developer_tools/docker-50.webp "Docker")
 ![Git](/resource/icons/developer_tools/git-50.webp "Git")
+![Bash](/resource/icons/developer_tools/icons8-bash-48.webp "Bash")
 
 
 <!--
