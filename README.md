@@ -1,65 +1,82 @@
-<img src="resource/profile_banner.webp" alt="Banner"/>
+<!-- ====== Poster Banner (centered) ====== -->
+<p align="center">
+  <img src="./resource/profile-banner.webp" alt="Banner: Your Name" width="800"/>
+</p>
 
-<br>
-<h1 align="center" style="font-size:2em">Hi 👋 I'm Sarthak Goyal</h1>
+<!-- ====== Name & Tagline ====== -->
+<h1 align="center">👋 Hi, I’m <strong>Sarthak Goyal</strong></h1>
+<h3 align="center">
+  Delivering robust machine-learning solutions, crafting scalable software architectures,  
+  and capturing moments through my lens.  
+</h3>
 
-<h3 align="center" style="font-size:1.3em; color:lightgrey"><i>Capturing Moments, Crafting Code</i></h3>
-
-<br><br>
-<!-- - 🔭 I’m currently working on [jahsfh](fjkashdilflbn) -->
-- 🧑🏻‍🎓 I am a second year, computer science student at [IIIT Dharwad](https://iiitdwd.ac.in/).
-- 🌱 I’m currently learning **Javascript**
-
-- 👯 I’m looking to collaborate on Web-Dev Projects.
-
-<!-- - 🤝 I’m looking for help with [kjasfbhuihfkjadi](fkjasbdlf) -->
-
-- 👨‍💻 All of my projects are available at my [**Github**](https://github.com/Sarthak-G0yal).
-
-<!-- - 📝 I regularly write articles on [kwhjaddbfvuoyb](kwhjaddbfvuoyb) -->
-
-<!-- - 💬 Ask me about **iasdfiuyb** -->
-
-- 📫 How to reach me at **sarthakgoyal487@gmail.com**
-
-<!-- - 📄 Know about my experiences [kfhjawbyb](kfhjawbyb) -->
-
-- ⚡ Fun fact : I'm a **Photographer.**
-
-<h3 align="left" style="font-size: 25px;">My Social:</h3>
-
-[![LinkedIn](/resource/icons/social/linkedin-50.webp "LinkedIn")](https://www.linkedin.com/in/sarthak-g0yal/)
-[![X](/resource/icons/social/x-50-white.webp "X")](https://x.com/SARTHAK_G0YAL#gh-dark-mode-only)
-[![X](/resource/icons/social/x-50-black.webp "X")](https://x.com/SARTHAK_G0YAL#gh-light-mode-only)
-[![Instagram](/resource/icons/social/insta-48.webp "Instagram")](https://www.instagram.com/sarthak_g0yal/)
-<!-- [![CodeChef](/resource/icons/social/codechef-50-white.webp "Codechef")](https://www.codechef.com/users/sarthak_g0yal#gh-dark-mode-only) -->
-<!-- [![CodeChef](/resource/icons/social/codechef-50-black.webp "CodeChef")](https://www.codechef.com/users/sarthak_g0yal#gh-light-mode-only) -->
-<!-- [![LeetCode](/resource/icons/social/leetcode-48.webp "Leetcode")](https://leetcode.com/u/9TIzQvleYO/) -->
-
-<h3 align="left" style="font-size: 25px;">Languages:</h3>
-
-![C](/resource/icons/language/c-48.webp "C")
-![C++](/resource/icons/language/c++-48.webp "C++")
-![Python](/resource/icons/language/python-50.webp "Python")
-![Java](/resource/icons/language/java-50.webp "Java")
-![HTML](/resource/icons/language/html-50.webp "HTML")
-![CSS](/resource/icons/language/css-50.webp "CSS")
-![JS](/resource/icons/language/javascript-50.webp "JS")
+<!-- ====== About Me ====== -->
+## About Me
+- 🎓 3rd year Computer Science student at [Indian Institute of Information Technology, Dharwad](https://iiitdwd.ac.in/).  
+- 🤖 Passionate about building autonomous systems and data-driven applications  
+- 📸 Photography: Landscape, portrait, and street photography  
+- 📫 How to reach me: [sarthak.goyal.3505@gmail.com](mailto:sarthak.goyal.3505@gmail.com)
 
 
-<h3 align="left" style="font-size: 25px;">Framework:</h3>
-
-![Tailwind CSS](/resource/icons/framework/tailwindcss-50.webp "Tailwind CSS")
-![React](/resource/icons/framework/react-48.webp "React")
-
-<h3 align="left" style="font-size: 25px;">Developer Tools:</h3>
-
-![Docker](/resource/icons/developer_tools/docker-50.webp "Docker")
-![Git](/resource/icons/developer_tools/git-50.webp "Git")
-![Bash](/resource/icons/developer_tools/icons8-bash-48.webp "Bash")
-
-
+<!-- ====== Tech Stack ====== -->
+## 🛠 Tech Stack
+<p align="center">
+  <!-- Example SVG badges; replace with your own URLs -->
+  <img src="./resource/icons/language/python-50.webp" alt="Python" width="40"/>
+  <img src="https://your-icons.com/tensorflow.svg" alt="TensorFlow" width="40"/>
+  <img src="./resource/icons/language/java-50.webp" alt="Java" width="40"/>
+  <img src="https://your-icons.com/system-design.svg" alt="System Design" width="40"/>
+</p>
 <!--
-Sarthak-G0yal/Sarthak-G0yal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Domain              | Technologies                                     |
+|---------------------|--------------------------------------------------|
+| Machine Learning    | Python, TensorFlow, PyTorch, scikit-learn        |
+| Backend Development | Java, Node.js, Flask, Spring Boot                |
+| Frontend Development| React, Vue.js, TypeScript                        |
+| DevOps & Cloud      | Docker, Kubernetes, AWS, Azure, GitHub Actions   |
+| System Design       | Microservices, RESTful APIs, Distributed Systems |
+-->
+
+<!-- ====== Developer Tools ====== -->
+## 🧰 Developer Tools
+<p align="center">
+  <img src="./resource/icons/language/-50.webp" alt="VS Code" width="40"/>
+  <img src="./resource/icons/developer_tools/git-50.webp" alt="Git" width="40"/>
+  <img src="./resource/icons/developer_tools/docker-50.webp" alt="Docker" width="40"/>
+  <img src="" alt="Linux" width="40"/>
+  <img src="" alt="GitHub Actions" width="40"/>
+</p>
+
+<!-- ====== Social Links ====== -->
+## 📬 Connect with Me
+<p align="center">
+  <a href="https://github.com/your-user"><img src="https://your-icons.com/github.svg" alt="GitHub" width="40"/></a>
+  <a href="https://www.linkedin.com/in/sarthak-g0yal"><img src="./resource/icons/social/linkedin-50.webp" alt="LinkedIn" width="40"/></a>
+  <a href="https://x.com/SARTHAK_G0YAL"><img src="./resource/icons/social/x-50-black.webp" alt="Twitter" width="40"/></a>
+  <a href="https://www.instagram.com/sarthak_g0yal/"><img src="./resource/icons/social/insta-48.webp" alt="Instagram" width="40"/></a>
+</p>
+<!-- ====== Projects ====== -->
+<!--
+## 🚀 Selected Projects
+| Project                         | Description                                                      | Link |
+|---------------------------------|------------------------------------------------------------------|------|
+| Self-Driving Car CV             | Real-time lane detection and control on Raspberry Pi             | [GitHub](https://github.com/your-user/your-repo) |
+| Spacecraft Dynamics Simulator   | Orbital mechanics and linear algebra for satellite trajectory    | [GitHub](https://github.com/your-user/your-repo) |
+| Enterprise API Platform         | Scalable microservices with Spring Boot and Kubernetes           | [GitHub](https://github.com/your-user/your-repo) |
+-->
+<!-- ====== GitHub Stats ====== -->
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-user&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<!-- ====== Fun & Extras ====== -->
+<!--
+## 🎉 Beyond Code
+- 🎮 Interests: Chess, Competitive Programming  
+- 📚 Reading: Environmental Ethics, Sci-Fi Literature  
+- 🎵 Music: Classical Piano, Lo-fi Beats  
+-->
+---
+
+<p align="center"><em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em></p>
