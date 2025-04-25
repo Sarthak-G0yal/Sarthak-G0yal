@@ -1,6 +1,6 @@
 <!-- ====== Poster Banner (centered) ====== -->
 <p align="center">
-  <img src="./resource/profile-banner.webp" alt="Banner: Your Name" width="800"/>
+  <img src="./resource/profile_banner.webp" alt="Banner: Sarthak Goyal" />
 </p>
 
 <!-- ====== Name & Tagline ====== -->
@@ -20,12 +20,12 @@
 
 <!-- ====== Tech Stack ====== -->
 ## 🛠 Tech Stack
-<p align="center">
+<p>
   <!-- Example SVG badges; replace with your own URLs -->
   <img src="./resource/icons/language/python-50.webp" alt="Python" width="40"/>
-  <img src="https://your-icons.com/tensorflow.svg" alt="TensorFlow" width="40"/>
+  <img src="./resource/icons/language/tensorflow.svg" alt="TensorFlow" width="40"/>
   <img src="./resource/icons/language/java-50.webp" alt="Java" width="40"/>
-  <img src="https://your-icons.com/system-design.svg" alt="System Design" width="40"/>
+  <!-- <img src="https://your-icons.com/system-design.svg" alt="System Design" width="40"/> -->
 </p>
 <!--
 | Domain              | Technologies                                     |
@@ -39,20 +39,20 @@
 
 <!-- ====== Developer Tools ====== -->
 ## 🧰 Developer Tools
-<p align="center">
-  <img src="./resource/icons/language/-50.webp" alt="VS Code" width="40"/>
+<p>
+  <img src="./resource/icons/developer_tools/vscode-48.png" alt="VS Code" width="40"/>
   <img src="./resource/icons/developer_tools/git-50.webp" alt="Git" width="40"/>
   <img src="./resource/icons/developer_tools/docker-50.webp" alt="Docker" width="40"/>
-  <img src="" alt="Linux" width="40"/>
-  <img src="" alt="GitHub Actions" width="40"/>
+  <img src="./resource/icons/developer_tools/linux-48.png" alt="Linux" width="40"/>
+  <img src="./resource/icons/developer_tools/actions.svg" alt="GitHub Actions" width="40"/>
 </p>
 
 <!-- ====== Social Links ====== -->
 ## 📬 Connect with Me
-<p align="center">
-  <a href="https://github.com/your-user"><img src="https://your-icons.com/github.svg" alt="GitHub" width="40"/></a>
+<p>
+  <a href="https://github.com/Sarthak-G0yal"><img src="./resource/icons/developer_tools/github.png" alt="GitHub" width="40"/></a>
   <a href="https://www.linkedin.com/in/sarthak-g0yal"><img src="./resource/icons/social/linkedin-50.webp" alt="LinkedIn" width="40"/></a>
-  <a href="https://x.com/SARTHAK_G0YAL"><img src="./resource/icons/social/x-50-black.webp" alt="Twitter" width="40"/></a>
+  <a href="https://x.com/SARTHAK_G0YAL"><img src="./resource/icons/social/twitter.png" alt="Twitter" width="40"/></a>
   <a href="https://www.instagram.com/sarthak_g0yal/"><img src="./resource/icons/social/insta-48.webp" alt="Instagram" width="40"/></a>
 </p>
 <!-- ====== Projects ====== -->
@@ -64,11 +64,11 @@
 | Spacecraft Dynamics Simulator   | Orbital mechanics and linear algebra for satellite trajectory    | [GitHub](https://github.com/your-user/your-repo) |
 | Enterprise API Platform         | Scalable microservices with Spring Boot and Kubernetes           | [GitHub](https://github.com/your-user/your-repo) |
 -->
-<!-- ====== GitHub Stats ====== -->
+<!-- ====== GitHub Stats ======
 ## 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-user&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <!-- ====== Fun & Extras ====== -->
 <!--
